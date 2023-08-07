@@ -1,0 +1,8 @@
+matplotlib
+seaborn
+scikit-learn
+torch
+torch-geometric
+tensorboard
+torch-scatter
+dill
